@@ -29,7 +29,8 @@ user: claudetest1
 pass: halo1027
 flag: CSM{Ez_bgt_c0ba_c0ba_nya}
 
-![[Pasted image 20250425164623.png]]
+![Screenshot 2025-04-25 164606](https://github.com/user-attachments/assets/02d8da3a-abea-4001-ada1-05b8566a1ced)
+
 
 ### Login2
 
@@ -99,7 +100,8 @@ username: claudetest1
 pass: gracetest1
 flag: CSM{S1mple_Skrep111ng!!__asdasd}
 
-![[Pasted image 20250426012634.png]]
+![Screenshot 2025-04-26 012627](https://github.com/user-attachments/assets/20622899-a56b-4079-bb6d-b3362da1a0cf)
+
 
 ### Login3
 
@@ -192,8 +194,8 @@ username: ilp_test1
 password: Chalo1
 flag: CSM{b444d_capcayyy_heheh3} 
 
+![Screenshot 2025-04-26 021715](https://github.com/user-attachments/assets/8023887a-ee88-4de1-b527-41b99bd4f7cc)
 
-![[Pasted image 20250426021724.png]]
 
 ### Login4
 
@@ -251,11 +253,13 @@ with open("/home/kali/Documents/Login1/pass.txt", "r") as file:
 		else:
 			print(f"salah {en}")
 ```
-![[Pasted image 20250502162617.png]]
 
 user: moetest11
 pass: halo111dent307
 flag=CSM{encrypt33d_f0R_duummy}
+
+![Screenshot 2025-05-02 162611](https://github.com/user-attachments/assets/1f64a57f-8a42-48b4-9f15-4e9c0e26151b)
+
 
 ### Login5
 untuk user:
@@ -358,7 +362,9 @@ with open("/home/kali/Documents/Login1/pass.txt", "r") as file:
 
 ```
 
-![[Pasted image 20250502224753.png]]
 user: juggstest11
 pass: mobhalo1
 flag=CSM{hm4c_s1nGature_b4ny@k_DiGun44kan!} 
+
+![Screenshot 2025-05-02 224745](https://github.com/user-attachments/assets/f1c8ad2a-8432-4ab5-b406-b43e62ae0760)
+
