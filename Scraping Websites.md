@@ -199,7 +199,7 @@ flag: CSM{b444d_capcayyy_heheh3} <br>
 
 ### Login4
 
-untuk user:
+searching for username:
 
 ```
 import base64
@@ -227,7 +227,7 @@ with open("/home/kali/Documents/Login1/user.txt", "r") as file:
 			print('salah')
 ```
 
-untuk password:
+searching for password:
 
 ```
 import base64
@@ -262,7 +262,7 @@ flag=CSM{encrypt33d_f0R_duummy} <br>
 
 
 ### Login5
-untuk user:
+searching for username:
 ```
 import base64
 import requests
@@ -311,7 +311,7 @@ with open("/home/kali/Documents/Login1/user.txt", "r") as file:
             print("x")
 ```
 
-untuk pass:
+searching for password:
 ```
 import base64
 import requests
